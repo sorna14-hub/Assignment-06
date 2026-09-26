@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+/* FitLog design tokens (from the Figma file) */
+@theme inline {
+  --color-bg: #0c0d10;
+  --color-surface: #15171d;
+  --color-surface-2: #1b1e25;
+  --color-line: #222630;
+  --color-line-strong: #2d313b;
+  --color-footer: #090a0d;
+  --color-accent: #c2f800;
+  --color-accent-soft: #1a2312;
+  --color-muted: #9ca3af;
+  --color-subtle: #6b7280;
+  --color-soft: #d1d5db;
+
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-oswald);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-bg);
+  color: #ffffff;
+}
+
+::selection {
+  background: var(--color-accent);
+  color: #000000;
+}
