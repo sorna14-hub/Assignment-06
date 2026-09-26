@@ -109,3 +109,5 @@ export default async function WorkoutDetailPage({
     </main>
   );
 }
+
+
