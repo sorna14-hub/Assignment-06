@@ -69,7 +69,7 @@ FitLog is a responsive workout-library web app built with **Next.js (App Router)
 ## 🚀 Getting Started
 
 ```bash
-git clone 
+git clone https://github.com/sorna14-hub/Assignment-06
 cd Assignment_6
 npm install
 npm run dev        # http://localhost:3000
@@ -89,8 +89,8 @@ npm start
 
 ## 🔗 Links
 
-- **Live Site:** 
-- **GitHub Repository:**
+- **Live Site:**https://assignment-06-pink-six.vercel.app/
+- **GitHub Repository:**https://github.com/sorna14-hub/Assignment-06
 
 ---
 
